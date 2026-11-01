@@ -1,6 +1,6 @@
 # RR-products
 
-Online e-commerce microservice application with a sky blue React UI.
+Online e-commerce microservice application with a  React UI.
 
 ## Services
 | Service | Port | Database |
